@@ -1,0 +1,22 @@
+body{
+    background-color: rgba(219, 245, 237, 0.486);
+}
+
+/* URL Form */
+.url-form .jumbotron{
+    margin-top: 2rem;
+    background-color: white !important;
+}
+
+/* custom-url */
+.custom-url{
+    padding: 2rem;
+    margin-top: 4rem;
+    border: 1px solid rgba(0, 0, 0, 0.089);
+    border-radius: .5rem;
+}
+
+/* url-table */
+.url-table{
+    padding: 2rem;
+}
